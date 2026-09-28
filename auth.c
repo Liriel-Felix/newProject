@@ -4,4 +4,3 @@ int main() {
     printf("Olá, Mundo!\n");
     return 0;
 }
-{printf(Tudo bem?\n")}
